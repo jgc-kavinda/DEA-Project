@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Web%20Application%20Development/DEA-Project/web/web_content/users/view_user.jsp</file>
-            <file>file:/D:/Web%20Application%20Development/DEA-Project/web/web_content/drivers/new_driver.jsp</file>
+            <file>file:/D:/Web%20Application%20Development/Kavinda/DEA-Project/web/web_content/vehicles/view_vehicle.jsp</file>
+            <file>file:/D:/Web%20Application%20Development/Kavinda/DEA-Project/src/java/vrms/customer/servlets/ViewCustomerServlet.java</file>
+            <file>file:/D:/Web%20Application%20Development/Kavinda/DEA-Project/web/web_content/customers/view_customer.jsp</file>
+            <file>file:/D:/Web%20Application%20Development/Kavinda/DEA-Project/web/web_content/users/new_user.jsp</file>
         </group>
     </open-files>
 </project-private>
