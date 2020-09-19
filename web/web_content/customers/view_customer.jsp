@@ -218,12 +218,12 @@
                                     <table class="table table-bordered" id="dataTable" width="50%" cellspacing="0">
                                         <thead>
                                             <tr>
+                                                <th>NIC No</th>
                                                 <th>First Name</th>
                                                 <th>Last Name</th>
                                                 <th>Gender</th>
                                                 <th>Phone Number</th>
                                                 <th>Email</th>
-                                                <th>NIC No</th>
                                                 <th>Driving License No</th>
                                                 <th>DOB</th>
                                                 <th>Address</th>
@@ -231,12 +231,12 @@
                                         </thead>
                                         <tfoot>
                                             <tr>
+                                                <th>NIC No</th>
                                                 <th>First Name</th>
                                                 <th>Last Name</th>
                                                 <th>Gender</th>
                                                 <th>Phone Number</th>
-                                                <th>Email</th>
-                                                <th>NIC No</th>
+                                                <th>Email</th> 
                                                 <th>Driving License No</th>
                                                 <th>DOB</th>
                                                 <th>Address</th>
