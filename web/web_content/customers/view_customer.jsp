@@ -243,17 +243,7 @@
                                             </tr>
                                         </tfoot>
                                         <tbody>
-                                            <tr>
-                                                <td>981320465V</td>
-                                                <td>Tharindu</td>
-                                                <td>KP</td>
-                                                <td>Male</td>
-                                                <td>253425452345</td>
-                                                <td>0771234568</td>
-                                                <td>thraindukp@gmail.com</td>
-                                                <td>1998/05/12</td>
-                                                <td>Kaluthara</td>
-                                            </tr>
+                                            <jsp:include page="/ViewCustomerServlet" />
                                         </tbody>
                                     </table>
                                 </div>
